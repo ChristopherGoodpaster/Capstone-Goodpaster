@@ -33,6 +33,8 @@ Steps: Calculate average price, price fluctuation, and identify any trends.
 
 
 
+API: https://rapidapi.com/letscrape-6bRBa3QguO5/api/real-time-amazon-data
+
 
 
 
